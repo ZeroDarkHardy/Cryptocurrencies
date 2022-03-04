@@ -6,7 +6,7 @@ Using unsupervised machine learning, our goal was to analyze a large dataset of 
 
 ## Resources
 
-Data Source: [crypto_data.csv](https://github.com/ZeroDarkHardy/Cryptocurrencies/blob/main/resources/crypto_data.csv)
+Data Source: [crypto_data.csv](https://github.com/ZeroDarkHardy/Cryptocurrencies/blob/main/resources/crypto_data.csv)<br/>
 Software/Code Language(s): Python 3.7.11, Conda 4.11.0, Jupyter Notebook, Visual Studio Code 1.65.0
 
 ## Results
@@ -30,7 +30,7 @@ When we visualize the four classes in two dimensions, plotted by Total Coin Supp
 
 ### Aggregated Cryptocurrencies Table (Tradable)<br/>
 ![crypto_table.png](https://github.com/ZeroDarkHardy/Cryptocurrencies/blob/main/images/crypto_table.png)<br/>
-A new table was generated, pairing the important features of each cryptocurrency with their corresponding class.
+A new table was generated, pairing the important features of each cryptocurrency with their corresponding class. The above screenshot shows the first 10 rows of the table.
 
 ## Summary
 
