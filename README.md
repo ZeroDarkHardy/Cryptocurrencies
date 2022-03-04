@@ -28,6 +28,10 @@ When we visualize the four classes in two dimensions, plotted by Total Coin Supp
 ![bittorrent_2d.png](https://github.com/ZeroDarkHardy/Cryptocurrencies/blob/main/images/bittorrent_2d.png)<br/>
 ![turtlecoin_2d.png](https://github.com/ZeroDarkHardy/Cryptocurrencies/blob/main/images/turtlecoing_2d.png)<br/>
 
+### Aggregated Cryptocurrencies Table (Tradable)<br/>
+![crypto_table.png](https://github.com/ZeroDarkHardy/Cryptocurrencies/blob/main/images/crypto_table.png)<br/>
+A new table was generated, pairing the important features of each cryptocurrency with their corresponding class.
+
 ## Summary
 
 After cleaning and transforming the data, we've successfully classified 532 different cryptocurrencies into 4 groups based on similarity between features.  We've also identified a couple of obvious outliers.  Each group will need to be analyzed for metrics that our client will consider favorable (performance/volatility).
